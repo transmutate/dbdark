@@ -9,3 +9,9 @@
 .submit-hint,
 .shortcuts-link {
   color: rgba(255, 255, 255, 0.8) !important; }
+
+body {
+  /* background-color: #002111 !important; */
+  background-color: #7F345A !important;
+
+}
