@@ -1,5 +1,5 @@
 .command-box .CodeMirror-lines {
-  background-color: #002111 !important;
+  background-color: #011627 !important;
   color: #f8f8f2 !important;
   border: 1px solid #5f7e97 !important; }
 
@@ -13,7 +13,7 @@
   background-color: #5f7e97 !important; }
 
 .command-box span.cm-comment {
-  color: #776374 !important; }
+  color: #637777 !important; }
 
 .command-box span.cm-atom {
   color: #ae81ff !important; }

@@ -1,14 +1,14 @@
 .searchpanel {
-  background-color: #002111 !important;
+  background-color: #011627 !important;
   border-color: #5f7e97 !important; }
   .searchpanel .category {
     color: #5f7e97 !important;
-    background-color: #002111 !important;
+    background-color: #011627 !important;
     border-top: 1px solid #5f7e97 !important;
     border-bottom: 1px solid #5f7e97 !important; }
   .searchpanel input {
     color: rgba(255, 255, 255, 0.8) !important;
-    background-color: #002111 !important;
+    background-color: #011627 !important;
     border-bottom: 1px solid #5f7e97 !important; }
   .searchpanel a,
   .searchpanel i.fa {
