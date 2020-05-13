@@ -1,5 +1,5 @@
 #filebrowser-popup .filebrowser-header {
-  background-color: #002111 !important;
+  background-color: #011627 !important;
   color: rgba(255, 255, 255, 0.8) !important;
   border-right: 1px solid #5f7e97 !important;
   border-bottom: 1px solid #5f7e97 !important; }
@@ -11,7 +11,7 @@
     background-color: #5f7e97 !important; }
 
 #filebrowser-popup .filetree-link {
-  background-color: #002111 !important;
+  background-color: #011627 !important;
   color: rgba(255, 255, 255, 0.8) !important; }
   #filebrowser-popup .filetree-link:hover {
     background-color: #5f7e97 !important; }
@@ -36,7 +36,7 @@
   opacity: 1 !important; }
 
 #filebrowser-popup .home-folder {
-  background-color: #002111 !important; }
+  background-color: #011627 !important; }
   #filebrowser-popup .home-folder span,
   #filebrowser-popup .home-folder i.fa {
     color: #dbdbdb !important; }
@@ -44,7 +44,7 @@
 #filebrowser-popup .ft-scroll-angle-left,
 #filebrowser-popup .ft-scroll-angle-right {
   background-color: #5f7e97 !important;
-  color: #002111 !important;
+  color: #011627 !important;
   border: 2px solid #5f7e97 !important; }
   #filebrowser-popup .ft-scroll-angle-left:hover,
   #filebrowser-popup .ft-scroll-angle-right:hover {
