@@ -8,7 +8,7 @@
 	},
 	"content_scripts": [
 		{
-			"matches": [ "https://*.databricks.com/*", "https://*.azuredatabricks.net/*" ],
+			"matches": [ "https://dbc-67f03938-9115.cloud.databricks.com/*", "https://dbc-f901fba0-e2fe.cloud.databricks.com/*"],
 			"css": [
 				"css/editor.css",
 				"css/markdown.css",
