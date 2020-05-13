@@ -1,5 +1,5 @@
 .sidebar-main {
-  background-color: #011627 !important;
+  background-color: #002111 !important;
   border-right: 1px solid #5f7e97 !important; }
   .sidebar-main .sidebar-element .sidebar-element-icon-inner {
     border: 1px solid rgba(255, 255, 255, 0.8) !important; }
@@ -26,18 +26,18 @@
 
 .ft-panel {
   color: rgba(255, 255, 255, 0.8) !important;
-  background-color: #011627 !important;
+  background-color: #002111 !important;
   border-right: 1px solid #5f7e97 !important; }
 
 .ui-resizable-handle {
   background-color: #5f7e97 !important; }
 
 .sidebar-panel-element input {
-  background-color: #011627 !important;
+  background-color: #002111 !important;
   border: none !important; }
 
 .sidebar-panel-link {
-  background-color: #011627 !important;
+  background-color: #002111 !important;
   color: rgba(255, 255, 255, 0.8) !important; }
   .sidebar-panel-link:hover {
     background-color: #5f7e97 !important; }
