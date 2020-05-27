@@ -13,7 +13,9 @@
   background-color: #5f7e97 !important; }
 
 .command-box span.cm-comment {
-  color: #776374 !important; }
+  /* color: #776374 !important;  */
+  color: #FF69B4 !important;
+}
 
 .command-box span.cm-atom {
   color: #ae81ff !important; }
